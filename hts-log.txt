@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Jun 2024 11:24:37 at https://rosangelachiaretti.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://rosangelachiaretti.com.br/ -O1 "\\Mac\Home\Downloads\site ro\Rosangela Novo Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:13	Warning: 	Moved Permanently for https://rosangelachiaretti.com.br/?p=375
+11:25:13	Warning: 	File has moved from https://rosangelachiaretti.com.br/?p=375 to https://rosangelachiaretti.com.br/blog/
+11:25:13	Warning: 	Moved Permanently for https://rosangelachiaretti.com.br/?p=944
+11:25:13	Warning: 	File has moved from https://rosangelachiaretti.com.br/?p=944 to https://rosangelachiaretti.com.br/meu-livro-meu-legado/
+11:25:13	Warning: 	Moved Permanently for https://rosangelachiaretti.com.br/?p=361
+11:25:13	Warning: 	File has moved from https://rosangelachiaretti.com.br/?p=361 to https://rosangelachiaretti.com.br/sobre/
+11:25:13	Warning: 	Moved Permanently for https://rosangelachiaretti.com.br/?p=682
+11:25:13	Warning: 	File has moved from https://rosangelachiaretti.com.br/?p=682 to https://rosangelachiaretti.com.br/voce-se-conhece/
+11:25:13	Warning: 	Moved Permanently for https://rosangelachiaretti.com.br/?p=1
+11:25:13	Warning: 	File has moved from https://rosangelachiaretti.com.br/?p=1 to https://rosangelachiaretti.com.br/blog-1/
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 152 links scanned, 146 files written (13947308 bytes overall) [12561909 bytes received at 348941 bytes/sec], 1837578 bytes transferred using HTTP compression in 67 files, ratio 20%, 25.3 requests per connection
+(No errors, 10 warnings, 0 messages)
